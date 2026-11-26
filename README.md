@@ -29,6 +29,9 @@ No se distribuye un archivo IPA. Esta PWA se instala desde el navegador y no req
 - Compartir versículo y reflexión mediante el menú nativo del dispositivo, con copia al portapapeles o WhatsApp como alternativa.
 - Novedades del feed público de Blogger al abrir la sección.
 - Enlaces a la web oficial, donaciones y WhatsApp.
+
+- Módulo `donations.js` con la sección Donar equivalente a Android 1.26: presentación del ministerio, medios Nequi/Daviplata/Bre-B, copia del número 3136596423, enlace a la página oficial de donaciones y asistente de WhatsApp con mensaje preconfigurado.
+- Acceso directo a Donar desde la navegación inferior y desde los accesos rápidos de Inicio; Novedades queda disponible desde el botón superior y desde Más.
 - Instalación guiada para iOS y Android.
 - Caché local del shell de la aplicación para permitir abrir la interfaz sin conexión.
 
@@ -42,4 +45,3 @@ No se distribuye un archivo IPA. Esta PWA se instala desde el navegador y no req
 - El audio y las publicaciones requieren internet. El service worker no almacena en caché el audio ni los recursos de terceros.
 
 La reproducción en segundo plano y con pantalla bloqueada depende de las limitaciones del navegador y del sistema operativo, especialmente en iOS. Debe probarse en dispositivos reales.
-
