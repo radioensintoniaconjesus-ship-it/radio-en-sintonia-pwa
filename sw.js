@@ -1,6 +1,6 @@
 "use strict";
 
-const CACHE_NAME = "ensintonia-pwa-v5";
+const CACHE_NAME = "ensintonia-pwa-v6";
 const APP_SHELL = [
   "./",
   "./index.html",
