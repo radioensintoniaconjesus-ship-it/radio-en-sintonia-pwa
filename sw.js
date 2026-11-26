@@ -1,6 +1,6 @@
 "use strict";
 
-const CACHE_NAME = "ensintonia-pwa-v2";
+const CACHE_NAME = "ensintonia-pwa-v3";
 const APP_SHELL = [
   "./",
   "./index.html",
@@ -65,3 +65,4 @@ self.addEventListener("fetch", event => {
     })
   );
 });
+

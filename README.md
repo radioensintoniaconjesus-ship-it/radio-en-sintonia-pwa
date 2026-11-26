@@ -24,6 +24,9 @@ No se distribuye un archivo IPA. Esta PWA se instala desde el navegador y no req
 - Reproducción manual del stream HTTPS de Zeno.fm.
 - Controles de reproducir, pausar, recargar y volumen.
 - Metadatos de reproducción del sistema cuando el navegador los admite.
+- Versículo diario con rotación de mañana y mediodía, usando el contenido integrado de Android 1.26.
+- Reflexión cristiana asociada a cada lectura.
+- Compartir versículo y reflexión mediante el menú nativo del dispositivo, con copia al portapapeles o WhatsApp como alternativa.
 - Novedades del feed público de Blogger al abrir la sección.
 - Enlaces a la web oficial, donaciones y WhatsApp.
 - Instalación guiada para iOS y Android.
@@ -39,3 +42,4 @@ No se distribuye un archivo IPA. Esta PWA se instala desde el navegador y no req
 - El audio y las publicaciones requieren internet. El service worker no almacena en caché el audio ni los recursos de terceros.
 
 La reproducción en segundo plano y con pantalla bloqueada depende de las limitaciones del navegador y del sistema operativo, especialmente en iOS. Debe probarse en dispositivos reales.
+
